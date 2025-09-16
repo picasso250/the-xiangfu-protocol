@@ -68,21 +68,20 @@
 
 **You don't have to strive, you just have to fall to success.**
 
-## 集结：第一份邀请
+## 集结地 (Rally Points)
 
-写下这篇文章，是“开源相父协议”的第一步。
+如果这篇宣言触动了你，我们已经为不同地区的“舰长”设立了集结地，并正在GitHub上完善这份协议。
 
-我邀请你，现在就停下来，思考两个问题：
+*   **【灯塔】(大陆社群 / Mainland China Community)**
+    *   **平台**: QQ频道
+    *   **入口**: ![s](qrcode_1758029720620.jpg)
 
-1.  你内心的那个“心魔”，你准备给他起个什么名字？
-2.  你的《个人宪法》第一条，会是什么？
+*   **【国际舰桥】(国际社群 / International Community)**
+    *   **平台**: Discord
+    *   **入口**: https://discord.gg/H749eCF5
 
-这无关技术，无关代码。这只关乎你，和你如何夺回自己人生的驾驶权。
+*   **【开源相父协议】(核心协议 / The Core Protocol)**
+    *   **平台**: GitHub
+    *   **地址**: https://github.com/picasso250/the-xiangfu-protocol
 
-在未来的日子里，我会将这套系统的更多细节、模板和思考，整理并开源。
-
-但今天，我只想告诉你：
-
-**你并不孤单。**
-
-\- 舰长
+**你并不孤单。欢迎登舰。**
